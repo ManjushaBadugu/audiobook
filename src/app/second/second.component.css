@@ -1,0 +1,28 @@
+#b1 h2{
+    font-size: 3rem;
+    font-weight: 600;
+    }
+    div.container {
+        margin-left: 100px;
+    }
+    div.c1 {
+        padding-left:35px;
+    }
+.column {
+        float: left;
+        width:33.33%;
+}
+div.column p {
+    color:grey;
+}
+#b2 button {
+    background-color: orange;
+    color:black;
+    width:300px;
+    height:40px;
+    border-radius: 5px 5px;
+    border:0;
+    margin-top:20px;
+    
+}
+      

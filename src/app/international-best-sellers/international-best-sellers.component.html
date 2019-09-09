@@ -1,0 +1,8 @@
+<ul type='none'>
+    <li class='bookItem' *ngFor='let book of books'>
+        <img [src]='book.imageUrl'> 
+        <title>{{book.name}}</title>
+        <p>Narrated By:<i>{{book.author}}</i></p>
+        <p>Rating:<b>{{book.rating}}</b></p>
+    </li>
+</ul>
